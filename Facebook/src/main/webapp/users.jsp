@@ -17,10 +17,10 @@
 			<div class="col-md-10">
 				
 				<a href="index.jsp" class="btn btn-secondary">
-			    	<i class="bi bi-house"></i>
+			    	<i class="bi bi-house"></i> HOME
 			  	</a>
 				
-				<div class="d-flex justify-content-between align-items-center mb-3">
+				<div class="d-flex justify-content-between align-items-center mt-5 mb-3">
 			 
 				  <h1 class="m-0">Usuários</h1>
 				

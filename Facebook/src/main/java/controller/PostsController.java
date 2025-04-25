@@ -127,7 +127,7 @@ public class PostsController extends HttpServlet{
 
 	private Post createPost(HttpServletRequest req) {
 	    Post post = new Post();
-
+	    
 	    String content = req.getParameter("content");
 
 	    // Pegar o usuário direto da sessão

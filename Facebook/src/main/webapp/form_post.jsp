@@ -21,13 +21,9 @@
     		
     		<input type="hidden" name="post_id" value="${post.id}" />
 
-			
-
 			<div class="mb-3">
 				<label for="content" class="form-label">Conteúdo da Postagem</label>
-				<textarea class="form-control" id="content" name="content" rows="1" required>
-				    ${post.content}
-				</textarea>
+				<textarea class="form-control" id="content" name="content" rows="3" required>${post.content}</textarea>
 
 			</div>
 
